@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ac04fcfbd81f6be7f787f47198fad1c34b4e32ad5ea6daa3a43e7c4c283101bf"
+            "sha256": "7624ee2a2958ade33d8814123a6a6c2f433a639b370c1ab1ae505800538e250f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==1.8.2"
+        },
+        "branca": {
+            "hashes": [
+                "sha256:853a359c34d08fd06498be762d8be9932750db4049cac11e25dd6f23562e25c2",
+                "sha256:ca4c94643ef31b819987ca5bd19c6009ea17b440baa3aac04628545f7a4da023"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==0.7.2"
         },
         "certifi": {
             "hashes": [
@@ -298,6 +306,15 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==3.0.3"
+        },
+        "folium": {
+            "hashes": [
+                "sha256:14210d054e9afad6ebac037495508297d78805fcfa16f859fdee10bb7f85c2c1",
+                "sha256:48385df9a3f6ceca23647c2e8d87850c8a6e05b40db63266e7b8c6d2d734d4c6"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==0.17.0"
         },
         "fonttools": {
             "hashes": [
@@ -1146,6 +1163,14 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==3.0.3"
+        },
+        "xyzservices": {
+            "hashes": [
+                "sha256:58c1bdab4257d2551b9ef91cd48571f77b7c4d2bc45bf5e3c05ac97b3a4d7282",
+                "sha256:fecb2508f0f2b71c819aecf5df2c03cef001c56a4b49302e640f3b34710d25e4"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==2024.6.0"
         },
         "zipp": {
             "hashes": [
